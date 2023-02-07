@@ -1,0 +1,2 @@
+https://github.com/gretandroid/thang-HelloWorld20220317
+git remote add origin git@github.com:training-android-jetpack/TP03AndroidXmlUIEvents.git

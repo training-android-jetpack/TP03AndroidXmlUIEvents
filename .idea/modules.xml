@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorld2.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorld2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HelloWorld2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HelloWorld2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tp_03_xml_ui_events.iml" filepath="$PROJECT_DIR$/.idea/modules/tp_03_xml_ui_events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tp_03_xml_ui_events.app.unitTest.iml" />
     </modules>
   </component>
 </project>
